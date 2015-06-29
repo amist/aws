@@ -1,0 +1,7 @@
+
+add stack
+set stack setting to Use custom Chef cookbooks
+create image
+add layer
+add instance to layer with custom AMI
+	

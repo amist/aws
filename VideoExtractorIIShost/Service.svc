@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Streaminator.VideoExtractor.WCFLibrary.DuplexVEService"  %>
